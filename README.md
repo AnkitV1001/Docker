@@ -58,3 +58,28 @@
 | **Portability**     | High                  | High                         |
 | **Flexibility**     | High (Different OS)   | Limited (Shared Limited OS)  |
 
+
+## What is Docker?
+
+<ul>
+  <li>Docker is a plateform that run containers.</li>
+  <li>A container bundles an application's code and all dependencies into one object.</li>
+  <li>Containers use less resources than virtual machines.</li>
+</ul>
+
+## Why use Docker?
+
+<ul>
+  <li>Container easily copied and deployed</li>
+  <li>Application that run in containers are segregated from the rest of the host system.</li>
+  <li>Containers  are often cheaper to run than VMs.</li>
+  <li>Docker containers can be run on plateforms such as AWS, Google Cloud, and other.</li>
+</ul>
+
+## What are the docker Downsides?
+
+<ul>
+  <li>Not all apps are supported when run in containers.</li>
+  <li>Performance can may be sometimes be inconsistent.</li>
+  <li></li>
+</ul>
