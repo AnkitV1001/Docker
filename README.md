@@ -83,3 +83,38 @@
   <li>Performance can may be sometimes be inconsistent.</li>
   <li></li>
 </ul>
+
+## Installing Docker on Ubuntu
+
+```
+sudo apt update
+```
+
+To check whether docker is running or not.
+
+```
+systemctl status docker
+```
+
+
+```
+sudo apt install docker.io
+```
+
+**If the docker is disable and actively is not running than for enable the docker we use**
+
+```
+sudo systemctl enable  docker
+```
+**And after that check the we can check the status of the Docker**
+
+```
+sudo systemctl start docker
+
+```
+
+**For checking the docker run properly or not lets run a text in docker**
+
+
+
+
